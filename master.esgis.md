@@ -46,3 +46,42 @@ Ce document ressemble davantage à une **brochure marketing** qu'à une fiche de
 - La reconnaissance du diplôme par le CAMES ou équivalent
 
 Sans ces éléments, s'engager sur 2 ans et 1,6M FCFA est un risque non justifié.
+
+
+
+Il y a 3 alternatives concrètes au Togo, avec des niveaux de sérieux très différents.
+
+---
+
+## Alternatives au MP-IABD de l'ESGIS
+
+### 1. Université de Lomé (UL) + UTBM — **La meilleure option, de loin**
+
+L'Université de Lomé propose un Master International IA et Big Data en partenariat avec l'Université de Technologie de Belfort-Montbéliard (UTBM) en France.
+
+C'est un **double diplôme franco-togolais**. C'est structurellement supérieur à tout ce que l'ESGIS propose. Le programme couvre concrètement les architectures cloud, les systèmes distribués, le machine learning, l'IoT, et les méthodologies d'optimisation. On a enfin un syllabus visible. La reconnaissance internationale est réelle grâce au partenariat UTBM. **C'est clairement la première option à explorer.**
+
+---
+
+### 2. Collège de Paris Togo — **Correct, mais à vérifier**
+
+Le Collège de Paris Togo propose un Ms en Gestion de projets informatiques option IA et Big Data, axé sur la résolution de problèmes réels avec des algorithmes mathématiques avancés et le déploiement sur plateformes cloud. L'admission se fait sur dossier et entretien. Le rattachement au Collège de Paris donne une certaine crédibilité, mais il faut vérifier la reconnaissance effective du diplôme et qui enseigne réellement sur place.
+
+---
+
+### 3. Campus Senghor / Lomé Business School — **Adjacent, pas directement comparable**
+
+Le Campus Senghor au Togo délivre un Master 2 "Management de projets et transformation digitale" en partenariat avec l'Université Senghor d'Alexandrie. Ce n'est pas un master technique IA pur — c'est orienté management et digital. Le coût est significativement plus élevé (1,9M FCFA). À considérer seulement si l'angle managérial prime sur le technique.
+
+---
+
+## Verdict comparatif
+
+| | ESGIS | UL + UTBM | CdP Togo |
+|---|---|---|---|
+| Reconnaissance internationale | Faible | **Forte** | Moyenne |
+| Syllabus publié | Non | Partiel | Partiel |
+| Partenariat étranger | Non | **Oui (France)** | Oui (Paris) |
+| Coût M1 | 750k FCFA | À vérifier | À vérifier |
+
+**Ma recommandation est sans ambiguïté : contacter l'École Polytechnique de Lomé pour le master UL/UTBM en priorité.** Un double diplôme avec une école d'ingénieurs française reconnue change radicalement la valeur du diplôme sur le marché, y compris en dehors de l'Afrique de l'Ouest.
