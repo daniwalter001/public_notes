@@ -1,4 +1,5 @@
-Voilà une roadmap visuelle d'abord, puis on détaille tout point par point.---
+Voilà une roadmap visuelle d'abord, puis on détaille tout point par point.
+---
 
 ## Niveau 1 — Socle du langage
 
