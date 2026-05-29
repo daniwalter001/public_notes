@@ -1,4 +1,4 @@
-Voici la résolution détaillée et rigoureuse des exercices du fichier "1000717974.jpg". Conformément aux directives, l'approche sera strictement mathématique, omettant tout superflu pour privilégier la précision, la concision et la rigueur.
+
 ## Exercice 1 : Équations différentielles du premier ordre
 ### 1. (1 + e^x)yy' = e^x ; \quad y(0) = 1
 Il s'agit d'une équation à variables séparables.
